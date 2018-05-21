@@ -1,0 +1,9 @@
+www.yahoo.com
+70
+80
+www.google.com
+70
+80
+www.reddit.com
+70
+80
